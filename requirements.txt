@@ -1,0 +1,5 @@
+torch==1.0.0
+numpy==1.16.2
+pandas==0.24.2
+pyro_ppl==0.3.0
+pyro==3.16
