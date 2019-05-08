@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ### Project Structure
 
-The report is written as a Jupyter Notebook [a relative link](semi_vae.ipynb)
+The report is written as a [Jupyter Notebook](semi_vae.ipynb)
 
 The script for cross generalization test that includes a CNN, LSTM, BiLSTM implementation
 
