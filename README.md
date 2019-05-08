@@ -8,7 +8,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-Required packages are listed in [a text file](requirement.txt)
+Required packages are listed in [a text file](requirements.txt)
 
 ```
 pip install -r requirements.txt
